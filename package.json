@@ -8,7 +8,7 @@
     "lint": "eslint src/**",
     "coverage": "nyc npm test && nyc report --reporter=text-lcov | coveralls"
   },
-  "author": "kirko95 <john.muriu95@gmail.com>",
+  "author": "kirko95 <https://github.com/Kirko95/",
   "license": "MIT",
   "repository": {
     "type": "git",
